@@ -1,0 +1,7 @@
+Cargo.lock
+target/
+.vscode/
+exercises/
+.rustlings-state.txt
+Cargo.toml
+rust-analyzer.toml
