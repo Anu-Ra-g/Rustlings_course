@@ -1,6 +1,6 @@
 # Rustlings_course
 
-This repository contains the solutions for the [Rustlings course](https://rustlings.cool/) which I solved but the solutions will the ones that comes with the package.
+This repository contains the solutions for the [Rustlings course](https://rustlings.cool/) which I solved but the solutions will the ones that comes with the package. I'll be updating this README.md as I go through the lessons while solving the exercises.
 
 `25/12/2024`
 
@@ -20,6 +20,6 @@ This repository contains the solutions for the [Rustlings course](https://rustli
 `27/12/2024`
 
 - learned about **vector** today - re-sizable arrays
-- supports the *push*, *pop*, *indexing* i.e. vecsam[2]
+- supports the *push*, *pop*, *indexing* i.e. `vecsam[2]`
 - Weird thing - vector are resizable but have to be declared mutable otherwise error. Why?
 - So there's `references`, `mutable references`, `ownership` and not `pass by value` and `pass by reference`
