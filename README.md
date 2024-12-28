@@ -23,3 +23,12 @@ This repository contains the solutions for the [Rustlings course](https://rustli
 - supports the *push*, *pop*, *indexing* i.e. `vecsam[2]`
 - Weird thing - vector are resizable but have to be declared mutable otherwise error. Why?
 - So there's `references`, `mutable references`, `ownership` and not `pass by value` and `pass by reference`
+
+`28/12/2024`
+
+- Rust has 3 types of struct: `tuple structs`, `c-style structs` and `unit structs`. 
+- Initialization is basic as golang and c
+- Structs in Rust are very similar to that in Golang as it includes method implementation.
+- These structs methods have **class** kind of implementation.
+- Enums are same and can have many types and 
+- Rust has `match` instead of `switch` like Python.
