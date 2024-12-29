@@ -32,3 +32,9 @@ This repository contains the solutions for the [Rustlings course](https://rustli
 - These structs methods have **class** kind of implementation.
 - Enums are same and can have many types and 
 - Rust has `match` instead of `switch` like Python.
+
+`29/12/2024`
+
+- There are two types of string in Rust: **string slice** and **owned String**
+- Owned String is created in heap and string slice is created in the stack
+- modules system in Rust is new and they're declared inside source files, creating logical separation.
