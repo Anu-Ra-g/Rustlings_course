@@ -38,3 +38,8 @@ This repository contains the solutions for the [Rustlings course](https://rustli
 - There are two types of string in Rust: **string slice** and **owned String**
 - Owned String is created in heap and string slice is created in the stack
 - modules system in Rust is new and they're declared inside source files, creating logical separation.
+
+`30/12/2024`
+
+- Hashmaps or *unordered map* is same as most of the other programming language.
+- Option is a type to work around optional entities like arguments, elements etc.
