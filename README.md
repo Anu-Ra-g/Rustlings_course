@@ -19,3 +19,14 @@ This repo contains all my solutions to the [Rustlings course](https://rustlings.
 - Implicity returns are possible without the `return` keyword, Nice!!
 - If statements are standard
 - Ternary: `let val = if test == 23 {46} else {89};`. This is a thing
+
+`29-06-2025`
+
+- Completed exercises **4**, **5** and **6**
+- Rust the usual primitives like `bool`, `char`, `int` etc.
+- `let a = [1; 100];` is a syntax used to create an array of 100 elements
+- Slices are backed by array and this is the syntax `&arr[1..4]`. Kind of like `bash`
+- Has Tuples and destructing exists for tuples, arrays.
+- Need to go through the Rust book a little deep 
+- Vectors are dynamic arrays
+- Rustlings course is not on track with the book.
